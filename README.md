@@ -1,2 +1,8 @@
-# info2180-lab1
-First info2180 Lab
+# \# INFO2180 Lab 1
+
+# 
+
+# This is Lab 1 for <Nathan Hutton>
+
+# 
+

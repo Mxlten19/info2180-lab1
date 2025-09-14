@@ -2,7 +2,7 @@
 
 # 
 
-# This is Lab 1 for <Nathan Hutton>
+# This is Lab 1 for Nathan Hutton
 
 # 
 
